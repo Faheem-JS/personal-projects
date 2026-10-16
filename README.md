@@ -6,7 +6,7 @@ First-year **General Engineering** student at **King's College London**, interes
 
 - 🐍 **CS50P**: working through Harvard's Introduction to Programming with Python and building Python projects along the way
 - 🎮 **Roblox roll/RNG game**: building a game in Lua (Luau), using AI tools to speed up development
-- 📐 **MATLAB + CAD project**: an engineering project combining simulation and design ( Quadcopter drone )
+- 📐 **MATLAB + CAD project**: an engineering project combining simulation and design (Terrestrial Reconnaissance Drone)
 
 ## 🧑‍💼 Experience
 
